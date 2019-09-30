@@ -1,0 +1,18 @@
+{
+  "name": "dm-allv2",
+  "version": "2.0.1",
+  "description": "A bot to send DM's to every user in a Discord server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gringo, Scammer ALT, V3rmillion.net + Alex",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.1",
+    "discord.js": "^11.4.1",
+    "discord.js-commando": "^0.10.0",
+    "figlet": "^1.2.0",
+    "readline": "^1.3.0"
+  }
+}
